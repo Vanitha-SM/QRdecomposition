@@ -10,11 +10,12 @@ Intialize the matrix Q and u
 ## Step 2:
 The vector u and e is given by
 
-    ![eqn1](./ex4.jpg)
+   ![1](https://github.com/Vanitha-SM/QRdecomposition/assets/119557985/b43a412b-ba48-49a7-939a-cd50e781534f)
 
-    ![eqn2](./ex6.jpg)
+   ![ex6](https://github.com/Vanitha-SM/QRdecomposition/assets/119557985/617c1e1e-c23b-4e5b-8d34-fa8b6bd69d80)
 
-    ![eqn3](./ex3.jpg)
+   ![ex3](https://github.com/Vanitha-SM/QRdecomposition/assets/119557985/8f88a4e3-8b4f-4908-89bc-5feb0fbd6f4a)
+
 
 ## Step 3:
 Obtain the Q matrix   
