@@ -56,12 +56,9 @@ def QR_Decomposition(A):
 a = np.array(eval(input()))
 QR_Decomposition(a)
 ```
-
 ## Output
-```
-![image](https://github.com/Vanitha-SM/QRdecomposition/assets/119557985/3394ffc2-6b83-41f5-b01c-bb912d206073)
+![Screenshot 2023-06-01 155434](https://github.com/Vanitha-SM/QRdecomposition/assets/119557985/2c8ee5c1-a1ed-47e7-b1b2-09f634ede10c)
 
-```
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
